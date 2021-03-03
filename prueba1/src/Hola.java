@@ -9,5 +9,5 @@ public class Hola {
 >>>>>>> refs/remotes/origin/master
 		//Primera subida David
 	}
-
+Esto debe ir a la rama 1
 }
